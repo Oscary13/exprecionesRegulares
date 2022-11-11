@@ -1,0 +1,8 @@
+C:\Users\oscar\source\repos\exprecionesRegulares\exprecionesRegulares\bin\Debug\exprecionesRegulares.exe.config
+C:\Users\oscar\source\repos\exprecionesRegulares\exprecionesRegulares\bin\Debug\exprecionesRegulares.exe
+C:\Users\oscar\source\repos\exprecionesRegulares\exprecionesRegulares\bin\Debug\exprecionesRegulares.pdb
+C:\Users\oscar\source\repos\exprecionesRegulares\exprecionesRegulares\obj\Debug\exprecionesRegulares.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\exprecionesRegulares\exprecionesRegulares\obj\Debug\exprecionesRegulares.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\source\repos\exprecionesRegulares\exprecionesRegulares\obj\Debug\exprecionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\exprecionesRegulares\exprecionesRegulares\obj\Debug\exprecionesRegulares.exe
+C:\Users\oscar\source\repos\exprecionesRegulares\exprecionesRegulares\obj\Debug\exprecionesRegulares.pdb
